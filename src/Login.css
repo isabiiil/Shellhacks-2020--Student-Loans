@@ -1,0 +1,11 @@
+.LoginForm{
+    margin: 20vh 40vw;
+}
+
+.SignIn{
+    background-color: #028090;
+    color: white;
+    border: none;
+    width: 100%;
+    margin-top: 10px;
+}
