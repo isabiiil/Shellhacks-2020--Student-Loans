@@ -30,7 +30,7 @@ export default function Resources() {
                             <p>For when you need to contact them, here is a list of federal student loan servicers and their phone numbers.</p>
                             <Button><a href="https://www.snowballwealth.com/blog/list-of-federal-student-loan-servicers-and-their-phone-numbers" target="_blank">Read more &rarr;</a></Button>
                         </CardBody>
-                        <CardFooter>by Snowball Wealth · Mar 29, 2020</CardFooter>
+                        <CardFooter>by Snowball Wealth · March 29, 2020</CardFooter>
             </Card>
           </Col>
         </Row>
@@ -76,7 +76,7 @@ export default function Resources() {
   
           <Col>
             <Card>
-            <CardImg src="hhttps://images.unsplash.com/photo-1459257831348-f0cdd359235f?ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80" />
+            <CardImg src="https://images.unsplash.com/photo-1459257831348-f0cdd359235f?ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80" />
                     <CardTitle>Here’s How Personal Loan Deferment Works</CardTitle>
                         <CardBody>
                             <p>Deferring a personal loan payment can alleviate some financial stress for a month or two, but your loan’s overall cost could go up.</p>
